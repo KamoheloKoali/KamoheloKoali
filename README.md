@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamohelokoali&label=Profile%20views&color=0e75b6&style=flat" alt="kamohelokoali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamohelokoali" alt="kamohelokoali" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 - 🔭 I’m currently working on a website [quiz web app](https://github.com/KamoheloKoali/quiz-web-app)
 
