@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://codepen.io/kamohelokoali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kamohelokoali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23119701" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23119701" height="30" width="40" /></a>
-<a href="https://www.facebook.com/thomello.matsasa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamohelo koali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100092505248878" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamohelo koali" height="30" width="40" /></a>
 <a href="https://instagram.com/mysterious_ghostt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mysterious_ghostt" height="30" width="40" /></a>
 </p>
 
