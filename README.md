@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a website [quiz web app](https://github.com/KamoheloKoali/quiz-web-app)
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on **on any project**
 
