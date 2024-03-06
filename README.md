@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamohelokoali" alt="kamohelokoali" /></a> </p>
 
-- 🔭 I’m currently working on a website [quiz web app](https://github.com/KamoheloKoali/quiz-web-app)
+<!--- 🔭 I’m currently working on a website [quiz web app](https://github.com/KamoheloKoali/quiz-web-app)-->
 
 - 🌱 I’m currently learning **C**
 
