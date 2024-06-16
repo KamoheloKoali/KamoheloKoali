@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamohelo</h1>
-<h3 align="center">A passionate frontend developer from Lesotho</h3>
+<h3 align="center">A passionate and dedicated full-stack software developer from Lesotho</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamohelokoali&label=Profile%20views&color=0e75b6&style=flat" alt="kamohelokoali" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any project dealing in any front-end and back-end technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KamoheloKoali](https://github.com/KamoheloKoali)
 
