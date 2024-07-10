@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KamoheloKoali](https://github.com/KamoheloKoali)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/KamoheloKoali](https://github.com/KamoheloKoali)-->
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kamohelo-koali-9b90542b4/](https://www.linkedin.com/in/kamohelo-koali-9b90542b4/)
 
