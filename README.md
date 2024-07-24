@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamohelo</h1>
-<h3 align="center">A passionate and dedicated full-stack software developer from Lesotho</h3>
+<h3 align="center">A passionate and dedicated software developer from Lesotho</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamohelokoali&label=Profile%20views&color=0e75b6&style=flat" alt="kamohelokoali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamohelokoali" alt="kamohelokoali" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Software Development at Holberton School**
 
 - 👯 I’m looking to collaborate on **any project**
 
