@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamohelokoali" alt="kamohelokoali" /></a> </p>
 
-- 🌱 I’m currently learning **Software Development at Holberton School**
+<!--- 🌱 I’m currently learning **Software Development at Holberton School**-->
 
 - 👯 I’m looking to collaborate on **any project**
 
